@@ -1,7 +1,7 @@
 {
   "name": "plori",
-  "version": "0.1.0",
-  "description": "Give your AI agent its own cloud computer. Create and drive plori cloud agents over MCP: invoke agents and read replies, manage the human-in-the-loop queue, and schedule deferred runs.",
+  "version": "0.1.1",
+  "description": "Create and drive plori AI agents in persistent cloud environments over MCP, including runs, human input, scheduling, connections, and workflows.",
   "mcpServers": {
     "plori": {
       "httpUrl": "https://api.plori.ai/mcp"
