@@ -22,7 +22,7 @@ There is nothing else to run locally: the MCP server is hosted at
 > Create an agent called scout and ask it to summarize the top HN story.
 ```
 
-The extension exposes the current 24-tool surface for agents, runs, human input,
+The extension exposes the current 25-tool surface for agents, runs, human input,
 scheduling, connections, workflows, and account state. Creating and invoking agents
 spends your prepaid balance; read-only tools are free. Details:
 [plori.ai/pricing](https://plori.ai/pricing).
